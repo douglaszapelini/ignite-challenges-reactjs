@@ -14,7 +14,7 @@
             <b>3º</b> Marcar e desmarcar uma tarefa como concluída<br>
         </p>
         <hr>
-        <img src="https://readme-maker.herokuapp.com/uploads/e4efe0d83bb88f0a-demo01.gif" width="1200">
+        ![demo01](https://user-images.githubusercontent.com/73009630/168482832-ff1a883d-36e6-4bb5-ac30-66fb9e5937b4.gif)
     </div>
     <div class="challenge">
         <h1>Challenge #02</h1>
@@ -29,7 +29,8 @@
         <b>4º</b> O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.<br>
         </p>
         <hr>
-        <img src="https://readme-maker.herokuapp.com/uploads/60729e163a2845d5-demo02.gif" width="1200">
+        ![demo02](https://user-images.githubusercontent.com/73009630/168482866-3e561d7c-3bb8-46a0-8599-7dddfc3ad2bc.gif)
+
     </div>
 </div>
 
